@@ -2,11 +2,16 @@
   "name": "projeto_ecoleta-Next-Level-Week-2020-",
   "version": "1.0.0",
   "description": "Projeto desenvolvido na Next Level Week 2020 # Index Desenvolvido com html e css.",
-  "main": "index.js",
-  "dependencies": {},
-  "devDependencies": {},
+  "main": "src/server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon src/server.js"
   },
   "repository": {
     "type": "git",
