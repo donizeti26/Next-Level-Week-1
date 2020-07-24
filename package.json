@@ -1,0 +1,22 @@
+{
+  "name": "projeto_ecoleta-Next-Level-Week-2020-",
+  "version": "1.0.0",
+  "description": "Projeto desenvolvido na Next Level Week 2020 # Index Desenvolvido com html e css.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donizeti26/projeto_ecoleta-Next-Level-Week-2020-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/donizeti26/projeto_ecoleta-Next-Level-Week-2020-/issues"
+  },
+  "homepage": "https://github.com/donizeti26/projeto_ecoleta-Next-Level-Week-2020-#readme"
+}
