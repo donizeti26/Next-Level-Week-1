@@ -6,6 +6,7 @@ O objetivo é criar uma aplicação web para conectar pessoas a empresas respons
 * HTML
 * CSS
 * JAVASCRIPT
+* NODE JS
 * SQLite3
 
 ## :wrench: Ferramenta
